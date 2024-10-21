@@ -26,6 +26,7 @@ html {
 }
 /*Generales */
 body{
+    padding-top: 10rem;
     background-color: var(--stone);
 }
 
