@@ -27,6 +27,7 @@ html {
 /*Generales */
 body{
     padding-top: 10rem;
+    line-height: 3.5rem;
     background-color: var(--stone);
 }
 
@@ -35,7 +36,7 @@ h1,h2,h4 {
 }
 h3, p, li, tr{
     font-family: var(--fuenteParrafo);
-    line-height: 2.5rem;
+    
     font-size: 1.6rem;
 }
 
